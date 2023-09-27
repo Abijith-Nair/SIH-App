@@ -25,11 +25,18 @@
         background: none;
       }
     </style>
+    <script>
+      function redirectToNextPage(event) {
+          if (event.keyCode === 13) {
+              window.location.href = "pathome.html";
+          }
+      }
+  </script>
     <title>Document</title>
   </head>
   <body>
     <div class="patlogin">
-      <img class="rectangle-5" src="rectangle 5.png" />
+      <img class="rectangle-5" src="Images/Rectangle 5.png" />
       <div class="rectangle-8"></div>
       <div class="login">Login</div>
       <div class="rectangle-9"></div>
@@ -87,5 +94,14 @@
       <div class="ellipse-3"></div>
       <div class="ellipse-4"></div>
     </div>
+    <script>
+      document.addEventListener('keydown', redirectToNextPage);
+  </script>
+        <a href="patsignup.html" class="button1"></a>   
+          
+          <input class=rectangle-9 id="username" id="firstName" name="firstName" required>  
+          <input class=rectangle-10 type="email" id="email" name="email" required>
+     
+
   </body>
 </html>
