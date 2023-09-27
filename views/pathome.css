@@ -120,7 +120,9 @@
   border-radius: 29px;
   border-style: solid;
   border-color: #0177d9;
+  font: 400 20px "DM Sans", sans-serif;
   border-width: 2px;
+  text-align: center;
   width: 368px;
   height: 66px;
   position: absolute;
@@ -219,6 +221,8 @@
   border-color: #0177d9;
   border-width: 2px;
   width: 368px;
+  text-align: center;
+  font: 400 20px "DM Sans", sans-serif;
   height: 66px;
   position: absolute;
   left: 21px;
@@ -257,6 +261,8 @@
   border-style: solid;
   border-color: #0177d9;
   border-width: 2px;
+  text-align: center;
+  font: 400 20px "DM Sans", sans-serif;
   width: 368px;
   height: 66px;
   position: absolute;
@@ -348,6 +354,8 @@
   border-color: #0177d9;
   border-width: 2px;
   width: 545px;
+  font: 400 20px "DM Sans", sans-serif;
+  text-align: center;
   height: 66px;
   position: absolute;
   left: 666px;
@@ -367,6 +375,7 @@
   border-style: solid;
   border-color: #0177d9;
   border-width: 2px;
+  font: 500 20px "DM Sans", sans-serif;
   width: 545px;
   height: 66px;
   position: absolute;
@@ -406,16 +415,23 @@
   overflow: hidden;
 }
 .rectangle-16 {
-  border-radius: 0px;
+  border-radius: 29px;
   position: absolute;
+  font: 400 20px "DM Sans", sans-serif;
+  text-align: center;
   left: 1289px;
+  width: 346px;
   top: 643px;
+  height: 66px;
+
   overflow: visible;
 }
 .rectangle-24 {
   background: #f0f0f0;
   border-radius: 29px;
   width: 346px;
+  font: 400 20px "DM Sans", sans-serif;
+  text-align: center;
   height: 66px;
   position: absolute;
   left: 1289px;
@@ -490,3 +506,44 @@
     top: 310px;
     overflow: hidden;
   }
+  .button5 {
+    background:(0,0,0);
+    border-radius: 29px;
+    padding: 11px 15px 11px 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 675px;
+    top: 825px;
+    overflow: hidden;
+  }
+
+  .button6 {
+    background:(0,0,0);
+    border-radius: 29px;
+    padding: 11px 15px 11px 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 90px;
+    top: 1010px;
+    overflow: hidden;
+  }
+  .menu-container {
+    text-align: center;
+}
+
+/* Center the dropdown horizontally */
+select {
+    margin: 0 auto;
+}
