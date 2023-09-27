@@ -25,6 +25,14 @@
         background: none;
       }
     </style>
+
+<script>
+    function redirectToNextPage(event) {
+        if (event.keyCode === 13) {
+            window.location.href = "docuser.html";
+        }
+    }
+</script>
     <title>Document</title>
   </head>
   <body>
@@ -88,5 +96,12 @@
       <div class="ellipse-3"></div>
       <div class="ellipse-4"></div>
     </div>
+    <script>
+        document.addEventListener('keydown', redirectToNextPage);
+    </script>
+    <a href="docsignup.html" class="button1"></a>   
+          
+    <input class=rectangle-9 id="username" id="firstName" name="firstName" required>  
+    <input class=rectangle-10 type="password" id="password" name="password" required>
   </body>
 </html>
