@@ -1,0 +1,208 @@
+.patsignup,
+.patsignup * {
+  box-sizing: border-box;
+}
+.patsignup {
+  background: #000000;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-5 {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-11 {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 75px;
+  width: 1633px;
+  height: 884px;
+  position: absolute;
+  left: calc(50% - 817px);
+  top: 98px;
+}
+.vector-2 {
+  position: absolute;
+  left: 143px;
+  top: 98px;
+  overflow: visible;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: left;
+  font: 500 75px "DM Sans", sans-serif;
+  position: absolute;
+  left: 1167px;
+  top: 134px;
+}
+.frame-2 {
+  width: 807px;
+  height: 416px;
+  position: absolute;
+  left: 897px;
+  top: 278px;
+}
+.rectangle-112 {
+  background: #d9d9d9;
+  border-radius: 29px;
+  width: 346px;
+  height: 66px;
+  position: absolute;
+  left: 0px;
+  top: 44px;
+}
+.username {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 0px;
+}
+.digital-health-id {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 154px;
+}
+.rectangle-15 {
+  background: #d9d9d9;
+  border-radius: 29px;
+  width: 346px;
+  height: 66px;
+  position: absolute;
+  left: 0px;
+  top: 350px;
+}
+.password {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 307px;
+}
+.rectangle-13 {
+  background: #d9d9d9;
+  border-radius: 29px;
+  width: 346px;
+  height: 66px;
+  position: absolute;
+  left: 0px;
+  top: 197px;
+}
+.rectangle-12 {
+  background: #d9d9d9;
+  border-radius: 29px;
+  width: 346px;
+  height: 66px;
+  position: absolute;
+  left: 461px;
+  top: 45px;
+}
+.e-mail {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 481px;
+  top: 0px;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  border-radius: 29px;
+  width: 346px;
+  height: 66px;
+  position: absolute;
+  left: 461px;
+  top: 197px;
+}
+.mobile-number {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 481px;
+  top: 154px;
+}
+.rectangle-16 {
+  background: #d9d9d9;
+  border-radius: 29px;
+  width: 346px;
+  height: 66px;
+  position: absolute;
+  left: 461px;
+  top: 350px;
+}
+.confirm-password {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 481px;
+  top: 307px;
+}
+.already-have-an-account-login {
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 917px;
+  top: 784px;
+}
+.already-have-an-account-login-span {
+  color: #ffffff;
+  font: 400 28px "DM Sans", sans-serif;
+}
+.already-have-an-account-login-span2 {
+  color: #c6fcff;
+  font: 400 28px "DM Sans", sans-serif;
+}
+.already-have-an-account-login-span3 {
+  color: #ffffff;
+  font: 400 28px "DM Sans", sans-serif;
+}
+.confirm-you-are-not-a-robot {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 917px;
+  top: 740px;
+}
+.tick{
+  color: #000000;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 1299px;
+  top: 744px;
+  width: 28px;
+  height: 28px;
+}
+.frame-1 {
+  background: #0177d9;
+  border-radius: 29px;
+  padding: 11px 15px 11px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 234px;
+  position: absolute;
+  left: 1184px;
+  top: 866px;
+  overflow: hidden;
+}
+.confirm {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: relative;
+}
