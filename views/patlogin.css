@@ -1,0 +1,134 @@
+.patlogin,
+.patlogin * {
+  box-sizing: border-box;
+}
+.patlogin {
+  background: #000000;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-5 {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-8 {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 75px;
+  width: 1039px;
+  height: 570px;
+  position: absolute;
+  left: calc(50% - 520px);
+  top: 248px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font: 500 75px "DM Sans", sans-serif;
+  position: absolute;
+  left: 1082px;
+  top: 277px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 29px;
+  width: 447px;
+  height: 66px;
+  position: absolute;
+  left: 947px;
+  top: 443px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 29px;
+  width: 447px;
+  height: 66px;
+  position: absolute;
+  left: 947px;
+  top: 571px;
+}
+.username {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 959px;
+  top: 399px;
+  width: 231px;
+  height: 44px;
+}
+.password {
+  color: #ffffff;
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 959px;
+  top: 527px;
+  width: 231px;
+  height: 44px;
+}
+.new-user-sign-up {
+  text-align: left;
+  font: 400 28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 1056px;
+  top: 655px;
+}
+.new-user-sign-up-span {
+  color: #ffffff;
+  font: 400 28px "DM Sans", sans-serif;
+}
+.new-user-sign-up-span2 {
+  color: #c6fcff;
+  font: 400 28px "DM Sans", sans-serif;
+}
+.new-user-sign-up-span3 {
+  color: #ffffff;
+  font: 400 28px "DM Sans", sans-serif;
+}
+.vector-1 {
+  position: absolute;
+  left: 440px;
+  top: 248px;
+  overflow: visible;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 63px;
+  height: 63px;
+  position: absolute;
+  left: 985px;
+  top: 715px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 63px;
+  height: 63px;
+  position: absolute;
+  left: 1082px;
+  top: 715px;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 63px;
+  height: 63px;
+  position: absolute;
+  left: 1179px;
+  top: 715px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 63px;
+  height: 63px;
+  position: absolute;
+  left: 1276px;
+  top: 715px;
+}
