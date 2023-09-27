@@ -9,15 +9,6 @@
   position: relative;
   overflow: hidden;
 }
-.ellipse-11 {
-  background: #d9d9d9;
-  border-radius: 50%;
-  width: 74px;
-  height: 74px;
-  position: absolute;
-  left: 1804px;
-  top: 199px;
-}
 .line-7 {
   border-style: solid;
   border-color: #818181;
@@ -582,6 +573,8 @@
   position: absolute;
   left: 1803px;
   top: 199px;
+  border: 0px;
+  cursor: pointer;
 }
 .confirm{
     background-color: hsl(338, 97%, 63%);

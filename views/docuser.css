@@ -211,6 +211,7 @@
   text-align: left;
   font: 400 28px "DM Sans", sans-serif;
   position: relative;
+  cursor: pointer;
 }
 .rectangle-21 {
   background: #f0f0f0;
@@ -303,14 +304,14 @@
 .polygon-1 {
   position: absolute;
   left: 335px;
-  top: 806.57px;
+  top: 796.57px;
   transform: translate(6.31px, -11.76px);
   overflow: visible;
 }
 .polygon-2 {
   position: absolute;
   left: 335px;
-  top: 928.45px;
+  top: 912.45px;
   transform: translate(6.31px, -11.76px);
   overflow: visible;
 }
