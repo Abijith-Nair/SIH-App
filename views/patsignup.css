@@ -164,7 +164,8 @@
     left: 1250px;
     top: 784px;
     overflow: hidden;
-  }.button2 {
+  }
+  .button2 {
     background:(0,0,0);
     border-radius: 29px;
     padding: 11px 15px 11px 15px;
