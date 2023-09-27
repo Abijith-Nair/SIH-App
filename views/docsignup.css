@@ -1,9 +1,9 @@
-.patsignup,
-.patsignup * {
+.docsignup,
+.docsignup * {
   box-sizing: border-box;
 }
-.patsignup {
-  background: #000000;
+.docsignup {
+  background: rgba(248, 131, 121, 0.75);
   width: 1920px;
   height: 1080px;
   position: relative;
@@ -63,7 +63,7 @@
   left: 20px;
   top: 0px;
 }
-.digital-health-id {
+.doctor-id {
   color: #ffffff;
   text-align: left;
   font: 400 28px "DM Sans", sans-serif;
@@ -160,7 +160,7 @@
   font: 400 28px "DM Sans", sans-serif;
 }
 .already-have-an-account-login-span2 {
-  color: #c6fcff;
+  color: #ffc6c9;
   font: 400 28px "DM Sans", sans-serif;
 }
 .already-have-an-account-login-span3 {
@@ -177,7 +177,7 @@
 }
 
 .frame-1 {
-  background: #0177d9;
+  background: #ff005c;
   border-radius: 29px;
   padding: 11px 15px 11px 15px;
   display: flex;
